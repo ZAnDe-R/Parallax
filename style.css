@@ -22,7 +22,7 @@ body,html{
     background-attachment: fixed;
 }
 .pimg1{
-    background-image: url('./img/cherry\ blossom.jpg');
+    background-image: url('./img/cherry blossom.jpg');
     min-height: 400px;
 }
 .pimg2{
