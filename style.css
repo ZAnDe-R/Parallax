@@ -22,15 +22,15 @@ body,html{
     background-attachment: fixed;
 }
 .pimg1{
-    background-image: url('img/cherry\ blossom.jpg');
+    background-image: url('./img/cherry\ blossom.jpg');
     min-height: 400px;
 }
 .pimg2{
-    background-image: url('/img/lights.jpg');
+    background-image: url('./img/lights.jpg');
     min-height: 400px;
 }
 .pimg3{
-    background-image: url('/img/street.jpg');
+    background-image: url('./img/street.jpg');
     min-height: 400px;
 }
 .section{
